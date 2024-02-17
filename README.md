@@ -1,8 +1,8 @@
-# Halo semua! 
+# Hello! 
  
 My Name **Novri Rahman**.<br>
 
-If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/novri-rahman-0492b7273/)ku ya.
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/novri-rahman-0492b7273/).
  
 ### Github Statistic
 <p align="left">
